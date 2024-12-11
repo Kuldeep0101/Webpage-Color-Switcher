@@ -8,8 +8,6 @@
 <h3> Features- </h3>
 <ul>
   <li>Dynamically switches between predefined color schemes.</li>
-<li>Implements smooth and responsive DOM changes.</li>
-<li>Implements smooth and responsive DOM changes.</li>
   <li>Implements smooth and responsive DOM changes. </li>
    <li>Interactive and user-friendly UI. </li>
 </ul>
@@ -23,6 +21,8 @@
   <li>DOM Manipulation: Upon a button click, the body element's background color is updated using JavaScript.</li>
 <li>Predefined Colors: Multiple color options are defined in the script.</li>
 </ol>
+
+<br>
 
 <h3> Technologies Used- </h3>
 
